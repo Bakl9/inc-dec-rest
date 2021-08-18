@@ -4,7 +4,7 @@ import React from 'react'
 export class Conteiner extends React.Component {
   state = {
     count: 0
-  }
+  }. 
    
 
 increment = () => {
